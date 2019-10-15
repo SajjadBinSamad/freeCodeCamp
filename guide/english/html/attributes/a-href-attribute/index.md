@@ -57,11 +57,11 @@ The `<a href="#">` may also be applied to images and other HTML elements.
 ### Example
 
 ```html
-<a href="#"><img itemprop="image" style="height: 90px;" src="http://www.chatbot.chat/assets/images/header-bg_y.jpg" alt="picture">  </a>
+<a href="#"><img itemprop="image" style="height: 90px;" src="https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png" alt="FreeCodeCamp_logo">  </a>
 
 ```
 ### Example
-<a href="#"><img itemprop="image" style="height: 90px;" src="http://www.chatbot.chat/assets/images/header-bg_y.jpg" alt="picture">  </a>
+<a href="#"><img itemprop="image" style="height: 90px;" src="https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png" alt="FreeCodeCamp_logo">  </a>
 ### Some more examples of href
 ```html
 <base href="https://www.freecodecamp.org/a-href/">This gives a base url for all further urls on the page</a>
